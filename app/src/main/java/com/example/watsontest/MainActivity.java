@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
     private MessageOptions.Builder builder;
 
     private static final String endPoint = "https://gateway-wdc.watsonplatform.net/assistant/api";
-    private static final String APIkey = "Qw4Cqhs0eQnOOOSgCTYNtVdl8CI2i_omti8sXCPjGm6S";
+    private static final String APIkey = "";
     private static final String WORKPLACE = "9aa06906-8f89-4ce7-ac1e-8a8e26f14609";
 
     @Override
